@@ -1,5 +1,8 @@
 streamlit
 streamlit-webrtc
 av
+yolo_predictions
 Pillow
 numpy
+opencv-python
+pyyaml
