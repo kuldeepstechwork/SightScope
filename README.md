@@ -9,7 +9,7 @@ This project used Python 3.9.16. All other required packages are listed in the r
 
 Clone the repository to your local machine.\
 Install the required dependencies using pip install -r requirements.txt.\
-Run the app with using streamlit run Home.py command.
+Run the app using streamlit run Home.py command.
 
 #Conclusion:
 
