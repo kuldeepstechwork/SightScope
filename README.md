@@ -7,9 +7,9 @@ This project used Python 3.9.16. All other required packages are listed in the r
 
 #Getting Started To get started with the project, you can follow these steps:
 
-Clone the repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
-Run the app with using streamlit run Home.py command.
+Clone the repository to your local machine.\
+Install the required dependencies using pip install -r requirements.txt.\
+Run the app with using streamlit run Home.py command.\
 
 #Conclusion:
 
