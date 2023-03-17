@@ -1,4 +1,4 @@
-# SightScope-
+# SightScope
 SightScope is a web application for detecting and tracking objects in images and videos using the YOLO V5 algorithm. 
 
 #Requirements:
